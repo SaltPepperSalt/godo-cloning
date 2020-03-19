@@ -1,0 +1,41 @@
+.container {
+    background: white;
+}
+
+.header{
+    background: white;
+}
+
+.event{
+    background : yellow;
+}
+
+.primaryWeb {
+    background: rgba(0, 0, 125, .9) ;
+    
+}
+
+.servicelist {
+    background: blue;
+}
+
+.guide {
+    background : violet;
+}
+
+.workingOn {
+    background: wheat;
+}
+
+.footer {
+    background: gray;
+}
+
+.ccenter {
+    background : darkgreen;
+}
+
+.name-server {
+    background: darkred;
+}
+
